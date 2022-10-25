@@ -2,15 +2,16 @@ body{
 	margin:0;
 	}
 .page1{
-	background-color:#E5EBB2;
+	background-color:#EAEAEA;
 	height:650px;
 	}
 .headerp1{
 	background:#100F0F;
-	font-family:cursive;
+	font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 	height:25px;
 	margin-top:20px;
 	position:auto;
+	font-size: 20px;
 	}
 .Home{
 	color:#E2DCC8;
