@@ -1,10 +1,128 @@
-
-
-img{
-	height:150px;
-	width:150px;
+body{
+		margin:0;
+		}
+	.page1{
+		background-color:#8BBCCC;
+		height:650px;
+		}
+	.headerp1{
+		background:#100F0F;
+		font-family:cursive;
+		height:25px;
+		margin-top:20px;
+		position:auto;
+		}
+	.Home{
+		color:#E2DCC8;
+		display:inline-block;
+		padding:0;
+		margin:0;
+		padding-left:25%;
+		}
+	.MyPath{
+		color:#E2DCC8;
+		display:inline-block;
+		padding:0;
+		margin:0;
+		padding-left:35%;
+	}
+	.Experience{
+		color:#E2DCC8;
+		display:inline-block;
+		padding:0;
+		margin:0;
+		padding-left:5%;
+	}
+	.HireMe{
+		color:#E2DCC8;
+		display:inline-block;
+		padding:0;
+		margin:0;
+		padding-left:5%;
+	}
+	.heading1{
+		text-align:center;
+	}
+	.SLdiscription{
+		color:#1746A2;
+		font-family:Courier New;
+		margin:0;
+		font-size:65px
 	}
 	
-table{
-	border:5px;
+	.p1img01atom{
+		position:absolute;
+		width:120px;
+		left:570px;
+		top:490px;
+		
+	}
+	.p1img02buret{
+		position:absolute;
+		width:140px;
+		left:350px;
+		top:470px;
+		
+	}
+	.p1img03d365{
+		position:absolute;
+		width:290px;
+		left:950px;
+		top:240px;
+		
+	}
+	.p1img04django{
+		position:absolute;
+		width:120px;
+		left:550px;
+		top:140px;
+		
+	}
+	.p1img05equation{
+		position:absolute;
+		width:320px;
+		left:90px;
+		top:270px;
+	}
+	.p1img06html5{
+		position:absolute;
+		width:120px;
+		left:750px;
+		top:80px;
+
+	}
+	.p1img07mathsequation{
+		position:absolute;
+		width:330px;
+		left:1110px;
+		top:320px;
+		
+	}
+	.p1img08Pythonlogo{
+		position:absolute;
+		width:120px;
+		left:870px;
+		top:550px;
+		
+	}
+	.p1img09quickbook{
+		position:absolute;
+		width:220px;
+		left:50px;
+		top:140px;
+		
+	}
+	.p1img10tally{
+		position:absolute;
+		width:220px;
+		left:250px;
+		top:85px;
+		
+	}
+	.p1img11telescope{
+		position:absolute;
+		width:220px;
+		left:1200px;
+		top:90px;
+		
 	}
